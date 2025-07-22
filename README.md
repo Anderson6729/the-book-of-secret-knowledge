@@ -638,10 +638,9 @@ performance of any of your sites from across the globe.<br>
 ##### :black_small_square: Generators
 
 <p>
-&nbsp;&nbsp; <a href="https://thispersondoesnotexist.com/"><b>thispersondoesnotexist</b></a> - generate fake faces in one click - endless possibilities.<br>
-&nbsp;&nbsp; <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br>
-&nbsp;&nbsp; <a href="https://www.fakenamegenerator.com/"><b>fakenamegenerator</b></a> - your randomly generated identity.<br>
-&nbsp;&nbsp; <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br>
+&nbsp;&nbsp; <a href="https://canadaaddress.net/"><b>Random Canada Address</b></a> - Random Canada Address Generator - Free & Fake Random Canada Address Tool.<br>
+&nbsp;&nbsp; <a href="https://kgtostone.cc"><b>Free Kg to Stone Converter</b></a> - Free Kg to Stone Converter | Stone to Kg Calculator.<br>
+
 </p>
 
 ##### :black_small_square: Passwords
@@ -1008,6 +1007,9 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="http://howfuckedismydatabase.com/"><b>How fucked is my database</b></a> - evaluate how fucked your database is with this handy website.<br>
 &nbsp;&nbsp; <a href="https://krisbuytaert.be/blog/linux-troubleshooting-101-2016-edition/index.html"><b>Linux Troubleshooting 101 , 2016 Edition</b></a> - everything is a DNS Problem...<br>
 &nbsp;&nbsp; <a href="https://open.buffer.com/5-whys-process/"><b>Five Whys</b></a> - you know what the problem is, but you cannot solve it?<br>
+&nbsp;&nbsp; <a href="https://percentagecalculator.vip"><b>Percentage Calculator</b></a> - Percentage Calculator.<br>
+&nbsp;&nbsp; <a href="https://gaytest.cc"><b>gay test</b></a> - gay test.<br>
+&nbsp;&nbsp; <a href="https://bdsmtest.cc"><b>bdsm test</b></a> - bdsm test.<br>
 &nbsp;&nbsp; <a href="https://gvnshtn.com/maersk-me-notpetya/"><b>Maersk, me & notPetya</b></a> - how did ransomware successfully hijack hundreds of domain controllers?<br>
 &nbsp;&nbsp; <a href="https://howhttps.works/"><b>howhttps.works</b></a> - how HTTPS works ...in a comic!<br>
 &nbsp;&nbsp; <a href="https://howdns.works/"><b>howdns.works</b></a> - a fun and colorful explanation of how DNS works.<br>
